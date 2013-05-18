@@ -13,6 +13,8 @@ Thingiverse. They were customized with the following settings:
 
 All other settings were left at defaults.
 
+The [full.stl] file contains the tops and bottoms of all three cases and was assembled by [full.scad].
+
 The [bottoms.stl] file contains all three case bottoms and was assembled by
 [bottoms.scad].
 
@@ -21,6 +23,10 @@ The [tops.stl] file contains all three case tops and was assembled by
 
 [Walter Hsiao]: http://www.thingiverse.com/walter/designs
 [customizable design]: http://www.thingiverse.com/thing:57281
+
+[full.stl]: https://github.com/bleything/threedee/blob/master/battery_cases/full.stl
+[full.scad]: https://github.com/bleything/threedee/blob/master/battery_cases/bottoms.scad
+
 [bottoms.stl]: https://github.com/bleything/threedee/blob/master/battery_cases/bottoms.stl
 [bottoms.scad]: https://github.com/bleything/threedee/blob/master/battery_cases/bottoms.scad
 
